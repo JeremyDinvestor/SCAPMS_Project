@@ -1,0 +1,9 @@
+# SCAPMS data v1
+P|General|P001|Amaka Obi|21|08031234567|NHIS-1001
+P|Emergency|P002|Tunde Bello|34|08099887766|4
+P|Follow-Up|P003|Ngozi Eze|45|08055512345|2026-10-10
+A|1|P001|2026-10-20|10:00|Malaria test|Completed
+A|2|P001|2026-10-30|09:30|Review|Pending
+A|3|P002|2026-10-28|14:00|Injury treatment|Pending
+A|4|P003|2026-11-05|11:00|Follow-up check|Pending
+A|5|P003|2026-10-15|11:00|Lab results|Completed
